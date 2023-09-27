@@ -1,0 +1,30 @@
+{
+  "name": "words-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 2537",
+    "build": "next build",
+    "start": "next start -p 2537",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/mongoose": "^5.11.97",
+    "@types/node": "20.4.5",
+    "@types/react": "18.2.17",
+    "@types/react-dom": "18.2.7",
+    "bcryptjs": "^2.4.3",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+    "jose": "^4.14.4",
+    "mongoose": "^7.4.1",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    
+  }
+}
